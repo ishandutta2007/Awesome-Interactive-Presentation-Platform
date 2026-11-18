@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Interactive-Presentation-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Interactive-Presentation-Platform?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Interactive-Presentation-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Interactive-Presentation-Platform?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Interactive-Presentation-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Interactive-Presentation-Platform?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Interactive-Presentation-Platform/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="MIT License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -64,9 +64,9 @@ The table below catalogs premier hosted interactive presentation tools, sorted i
 
 ## 🛠️ Open-Source GitHub Projects
 
-The following active open-source projects power self-hosted audience engagement platforms, developer-first presentation slide frameworks, infinite spatial canvases, and CLI terminal slideshow tools. Repositories are listed in **descending order by GitHub star count**, with verified badge links directly to each project's stargazers page.
+The following active open-source projects power self-hosted audience engagement platforms, developer-first presentation slide frameworks, infinite spatial canvases, and CLI terminal slideshow tools. Repositories are listed in **descending order by GitHub Stars_Count**, with verified badge links directly to each project's stargazers page.
 
-| Project & Repo Link | Star Count Badge | Primary Language / Stack | Core Capabilities & Architecture |
+| Project & Repo Link | Stars_Count Badge | Primary Language / Stack | Core Capabilities & Architecture |
 | :--- | :--- | :--- | :--- |
 | **[Excalidraw](https://github.com/excalidraw/excalidraw)** | [![Excalidraw Stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social&color=white)](https://github.com/excalidraw/excalidraw/stargazers) | TypeScript / React | Virtual hand-drawn collaborative whiteboard with frame-by-frame presentation mode, end-to-end encryption, and interactive diagramming. |
 | **[Reveal.js](https://github.com/hakimel/reveal.js)** | [![Reveal.js Stars](https://img.shields.io/github/stars/hakimel/reveal.js?style=social&color=white)](https://github.com/hakimel/reveal.js/stargazers) | JavaScript / HTML5 | The gold standard open-source HTML presentation framework featuring 2D slide grids, Markdown support, live syntax highlighting, speaker notes, and rich plugin ecosystem. |
